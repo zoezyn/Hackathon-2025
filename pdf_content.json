@@ -1,0 +1,3840 @@
+{
+  "document_info": {
+    "page_count": 3,
+    "file_path": "C:\\others\\team hackathon\\customssave_filled.pdf"
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "text_blocks": [
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 34.07999801635742,
+            "x2": 72.83999633789062,
+            "y2": 50.243995666503906
+          },
+          "lines": [
+            [
+              {
+                "text": "DHL",
+                "font": "TimesNewRomanPSMT",
+                "size": 12.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 34.07999801635742,
+                  "x2": 72.83999633789062,
+                  "y2": 50.243995666503906
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 44.279998779296875,
+            "y1": 70.0320053100586,
+            "x2": 238.2419891357422,
+            "y2": 114.72000885009766
+          },
+          "lines": [
+            [
+              {
+                "text": "IMPORT INSTRUCTIONS",
+                "font": "Delivery-Regular",
+                "size": 18.0,
+                "color": -2882287,
+                "position": {
+                  "x1": 44.279998779296875,
+                  "y1": 70.0320053100586,
+                  "x2": 238.2419891357422,
+                  "y2": 91.63200378417969
+                }
+              }
+            ],
+            [
+              {
+                "text": "CUSTOMS ORDER",
+                "font": "Delivery-Bold",
+                "size": 18.0,
+                "color": -2882287,
+                "position": {
+                  "x1": 44.279998779296875,
+                  "y1": 92.0040054321289,
+                  "x2": 192.29400634765625,
+                  "y2": 114.72000885009766
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 228.86398315429688,
+            "x2": 524.0940551757812,
+            "y2": 236.06398010253906
+          },
+          "lines": [
+            [
+              {
+                "text": "Company",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 228.86398315429688,
+                  "x2": 71.21399688720703,
+                  "y2": 236.06398010253906
+                }
+              }
+            ],
+            [
+              {
+                "text": "DHL EXPRESS account number (optional)",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 310.9200134277344,
+                  "y1": 228.86398315429688,
+                  "x2": 420.0539855957031,
+                  "y2": 236.06398010253906
+                }
+              }
+            ],
+            [
+              {
+                "text": "CDB-reference (optional)",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 457.20001220703125,
+                  "y1": 228.86398315429688,
+                  "x2": 524.0940551757812,
+                  "y2": 236.06398010253906
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 250.22396850585938,
+            "x2": 333.29400634765625,
+            "y2": 257.4239807128906
+          },
+          "lines": [
+            [
+              {
+                "text": "Street, No.",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 250.22396850585938,
+                  "x2": 73.85399627685547,
+                  "y2": 257.4239807128906
+                }
+              }
+            ],
+            [
+              {
+                "text": "ZIP, City",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 310.9200134277344,
+                  "y1": 250.22396850585938,
+                  "x2": 333.29400634765625,
+                  "y2": 257.4239807128906
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 271.5840148925781,
+            "x2": 321.29400634765625,
+            "y2": 278.7840270996094
+          },
+          "lines": [
+            [
+              {
+                "text": "Telephone",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 271.5840148925781,
+                  "x2": 73.9739990234375,
+                  "y2": 278.7840270996094
+                }
+              }
+            ],
+            [
+              {
+                "text": "Fax",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 310.9200134277344,
+                  "y1": 271.5840148925781,
+                  "x2": 321.29400634765625,
+                  "y2": 278.7840270996094
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 294.2640075683594,
+            "x2": 332.333984375,
+            "y2": 301.4640197753906
+          },
+          "lines": [
+            [
+              {
+                "text": "E-Mail",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 294.2640075683594,
+                  "x2": 63.17399978637695,
+                  "y2": 301.4640197753906
+                }
+              }
+            ],
+            [
+              {
+                "text": "Contact",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 310.9200134277344,
+                  "y1": 294.2640075683594,
+                  "x2": 332.333984375,
+                  "y2": 301.4640197753906
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.0860595703125,
+            "y1": 405.7852478027344,
+            "x2": 551.9673461914062,
+            "y2": 482.0222473144531
+          },
+          "lines": [
+            [
+              {
+                "text": "DHL Express Germany GmbH and the importer agree the customs clearance for incoming import shipments until revoked in writing. For",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 405.7852478027344,
+                  "x2": 551.9673461914062,
+                  "y2": 416.0092468261719
+                }
+              }
+            ],
+            [
+              {
+                "text": "this purpose, the importer grants DHL Express a power of attorney for direct customs representation in the name and for the account of",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.1199951171875,
+                  "y1": 416.8271789550781,
+                  "x2": 551.9279174804688,
+                  "y2": 427.0511779785156
+                }
+              }
+            ],
+            [
+              {
+                "text": "the importer for the customs declaration with the specified EORI number. This authorization also entitles to grant a sub-authorization.",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.1199951171875,
+                  "y1": 427.74981689453125,
+                  "x2": 551.9605102539062,
+                  "y2": 437.97381591796875
+                }
+              }
+            ],
+            [
+              {
+                "text": "The sub-authorization entitles to act as a customs representative and to grant a further sub-authorization. Customs clearance is per-",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.111480712890625,
+                  "y1": 438.791748046875,
+                  "x2": 550.2717895507812,
+                  "y2": 449.0157470703125
+                }
+              }
+            ],
+            [
+              {
+                "text": "formed by DHL Express itself or DHL Hub Leipzig GmbH or DHL Airways GmbH as customs service providers and sub-authorized repre-",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.094451904296875,
+                  "y1": 449.83367919921875,
+                  "x2": 550.3840942382812,
+                  "y2": 460.05767822265625
+                }
+              }
+            ],
+            [
+              {
+                "text": "sentatives of DHL Express. DHL Express and its customs service providers are entitled to further subcontract and sub-authorized third",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.094482421875,
+                  "y1": 460.7563171386719,
+                  "x2": 551.9417724609375,
+                  "y2": 470.9803161621094
+                }
+              }
+            ],
+            [
+              {
+                "text": "parties. Annex I for the settlement of import duties and customs services is an integral part of this order.",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.0860595703125,
+                  "y1": 471.7982482910156,
+                  "x2": 428.8268737792969,
+                  "y2": 482.0222473144531
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.1199951171875,
+            "y1": 494.82525634765625,
+            "x2": 551.9862060546875,
+            "y2": 538.0557861328125
+          },
+          "lines": [
+            [
+              {
+                "text": "If available, the importer shall provide DHL Express with a goods tariff list (incl. eleven-digit goods tariff number) as well as any permits",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 494.82525634765625,
+                  "x2": 551.9862060546875,
+                  "y2": 505.04925537109375
+                }
+              }
+            ],
+            [
+              {
+                "text": "required for clearance or valid binding information (e.g. binding customs tariff information). The importer is aware that incorrect or miss-",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.1199951171875,
+                  "y1": 505.7479248046875,
+                  "x2": 550.2323608398438,
+                  "y2": 515.971923828125
+                }
+              }
+            ],
+            [
+              {
+                "text": "ing information and documents for the customs declaration may lead to a different assessment or subsequent levying of import duties for",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.1199951171875,
+                  "y1": 516.789794921875,
+                  "x2": 551.8784790039062,
+                  "y2": 527.0137939453125
+                }
+              }
+            ],
+            [
+              {
+                "text": "which he is responsible. The importer therefore assures that he has provided all information and documents completely and correctly.",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.1199951171875,
+                  "y1": 527.831787109375,
+                  "x2": 537.703857421875,
+                  "y2": 538.0557861328125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.1114501953125,
+            "y1": 550.7452392578125,
+            "x2": 551.9415893554688,
+            "y2": 593.9757080078125
+          },
+          "lines": [
+            [
+              {
+                "text": "The authorized direct representation in accordance with Article 19 of the Union Customs Code also includes the application for post-",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 550.7452392578125,
+                  "x2": 550.2861328125,
+                  "y2": 560.96923828125
+                }
+              }
+            ],
+            [
+              {
+                "text": "clearance recovery, reimbursement or remission in the case of customs declarations to be amended or the invalidation of the customs",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.111480712890625,
+                  "y1": 561.7871704101562,
+                  "x2": 551.9415893554688,
+                  "y2": 572.0111694335938
+                }
+              }
+            ],
+            [
+              {
+                "text": "declaration. The importer is aware that the actions of DHL Express or its customs service providers and sub-agents as its direct repre-",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.111480712890625,
+                  "y1": 572.8291015625,
+                  "x2": 550.2930297851562,
+                  "y2": 583.0531005859375
+                }
+              }
+            ],
+            [
+              {
+                "text": "sentative have direct legal effect against it.",
+                "font": "Delivery-Regular",
+                "size": 8.520000457763672,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.1114501953125,
+                  "y1": 583.751708984375,
+                  "x2": 203.3789825439453,
+                  "y2": 593.9757080078125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 605.0265502929688,
+            "x2": 149.99227905273438,
+            "y2": 632.0812377929688
+          },
+          "lines": [
+            [
+              {
+                "text": "We are eligible for de-",
+                "font": "Delivery-Regular",
+                "size": 11.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 605.0265502929688,
+                  "x2": 149.99227905273438,
+                  "y2": 618.2745361328125
+                }
+              }
+            ],
+            [
+              {
+                "text": "duction of prior VAT:",
+                "font": "Delivery-Regular",
+                "size": 11.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 618.70654296875,
+                  "x2": 143.03375244140625,
+                  "y2": 631.9545288085938
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 210.72000122070312,
+            "y1": 613.2959594726562,
+            "x2": 396.40264892578125,
+            "y2": 629.5094604492188
+          },
+          "lines": [
+            [
+              {
+                "text": "YES",
+                "font": "Delivery-Regular",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 210.72000122070312,
+                  "y1": 613.2959594726562,
+                  "x2": 228.08099365234375,
+                  "y2": 624.095947265625
+                }
+              }
+            ],
+            [
+              {
+                "text": "NO",
+                "font": "Delivery-Regular",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 267.4800109863281,
+                  "y1": 613.2959594726562,
+                  "x2": 281.8440246582031,
+                  "y2": 624.095947265625
+                }
+              }
+            ],
+            [
+              {
+                "text": "VAT-ID:",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 359.1921081542969,
+                  "y1": 617.5574340820312,
+                  "x2": 396.40264892578125,
+                  "y2": 629.5094604492188
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 689.06396484375,
+            "x2": 377.2139892578125,
+            "y2": 696.2639770507812
+          },
+          "lines": [
+            [
+              {
+                "text": "Name (in capital letters)",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 689.06396484375,
+                  "x2": 108.89399719238281,
+                  "y2": 696.2639770507812
+                }
+              }
+            ],
+            [
+              {
+                "text": "Valid customer signature",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 310.9200134277344,
+                  "y1": 689.06396484375,
+                  "x2": 377.2139892578125,
+                  "y2": 696.2639770507812
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 718.4639282226562,
+            "x2": 354.65399169921875,
+            "y2": 725.6639404296875
+          },
+          "lines": [
+            [
+              {
+                "text": "City, date",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 718.4639282226562,
+                  "x2": 70.61399841308594,
+                  "y2": 725.6639404296875
+                }
+              }
+            ],
+            [
+              {
+                "text": "Company stamp",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 310.9200134277344,
+                  "y1": 718.4639282226562,
+                  "x2": 354.65399169921875,
+                  "y2": 725.6639404296875
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 51.720001220703125,
+            "y1": 311.8079833984375,
+            "x2": 130.16400146484375,
+            "y2": 326.2079772949219
+          },
+          "lines": [
+            [
+              {
+                "text": "EORI-NUMBER",
+                "font": "Delivery-Regular",
+                "size": 12.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 51.720001220703125,
+                  "y1": 311.8079833984375,
+                  "x2": 130.16400146484375,
+                  "y2": 326.2079772949219
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 51.720001220703125,
+            "y1": 326.62799072265625,
+            "x2": 210.234619140625,
+            "y2": 334.1999816894531
+          },
+          "lines": [
+            [
+              {
+                "text": "E",
+                "font": "Delivery-Bold",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 51.720001220703125,
+                  "y1": 326.62799072265625,
+                  "x2": 55.182003021240234,
+                  "y2": 334.1999816894531
+                }
+              },
+              {
+                "text": "conomic",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 55.20000076293945,
+                  "y1": 326.78399658203125,
+                  "x2": 78.53398895263672,
+                  "y2": 333.9840087890625
+                }
+              },
+              {
+                "text": "O",
+                "font": "Delivery-Bold",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 78.4800033569336,
+                  "y1": 326.62799072265625,
+                  "x2": 82.62000274658203,
+                  "y2": 334.1999816894531
+                }
+              },
+              {
+                "text": "perators´",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 82.68000030517578,
+                  "y1": 326.78399658203125,
+                  "x2": 109.3733901977539,
+                  "y2": 333.9840087890625
+                }
+              },
+              {
+                "text": "R",
+                "font": "Delivery-Bold",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 109.44000244140625,
+                  "y1": 326.62799072265625,
+                  "x2": 113.31000518798828,
+                  "y2": 334.1999816894531
+                }
+              },
+              {
+                "text": "egistration and",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 113.27999877929688,
+                  "y1": 326.78399658203125,
+                  "x2": 153.6545867919922,
+                  "y2": 333.9840087890625
+                }
+              },
+              {
+                "text": "I",
+                "font": "Delivery-Bold",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 153.72000122070312,
+                  "y1": 326.62799072265625,
+                  "x2": 155.53799438476562,
+                  "y2": 334.1999816894531
+                }
+              },
+              {
+                "text": "dentification number",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 155.52000427246094,
+                  "y1": 326.78399658203125,
+                  "x2": 210.234619140625,
+                  "y2": 333.9840087890625
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 336.1199951171875,
+            "y1": 309.94940185546875,
+            "x2": 427.86865234375,
+            "y2": 325.50140380859375
+          },
+          "lines": [
+            [
+              {
+                "text": "BRANCH NUMBER",
+                "font": "Delivery-Regular",
+                "size": 11.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 336.1199951171875,
+                  "y1": 311.74652099609375,
+                  "x2": 425.2547912597656,
+                  "y2": 324.9945068359375
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 51.720001220703125,
+            "y1": 364.88543701171875,
+            "x2": 549.0134887695312,
+            "y2": 390.634765625
+          },
+          "lines": [
+            [
+              {
+                "text": "» A branch number is only to be indicated if this has been assigned by the master data management of the Customs Authorities to a non-legal part of the company",
+                "font": "Delivery-Regular",
+                "size": 6.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 51.720001220703125,
+                  "y1": 364.88543701171875,
+                  "x2": 541.1018676757812,
+                  "y2": 373.2374267578125
+                }
+              }
+            ],
+            [
+              {
+                "text": "(branch or commercial unit). If you have a branch number, please send us the confirmation letter of the Customs Authorities. Further information regarding the EORI",
+                "font": "Delivery-Regular",
+                "size": 6.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 51.720001220703125,
+                  "y1": 373.6454162597656,
+                  "x2": 549.0134887695312,
+                  "y2": 381.9974060058594
+                }
+              }
+            ],
+            [
+              {
+                "text": "number can be found under zoll.de.",
+                "font": "Delivery-Regular",
+                "size": 6.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 51.72149658203125,
+                  "y1": 382.28277587890625,
+                  "x2": 160.33924865722656,
+                  "y2": 390.634765625
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 51.36000061035156,
+            "y1": 645.3253784179688,
+            "x2": 477.86810302734375,
+            "y2": 653.6774291992188
+          },
+          "lines": [
+            [
+              {
+                "text": "» A company is entitled to prior VAT who are not subject to the small business operator regulations (§19 UStG) and raises VAT to its revenues.",
+                "font": "Delivery-Regular",
+                "size": 6.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 51.36000061035156,
+                  "y1": 645.3253784179688,
+                  "x2": 477.86810302734375,
+                  "y2": 653.6774291992188
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 52.079986572265625,
+            "y1": 159.6654815673828,
+            "x2": 373.67999267578125,
+            "y2": 189.444091796875
+          },
+          "lines": [
+            [
+              {
+                "text": "Please return the documents to:",
+                "font": "Delivery-Bold",
+                "size": 8.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 52.08000183105469,
+                  "y1": 159.6654815673828,
+                  "x2": 168.672119140625,
+                  "y2": 169.8119659423828
+                }
+              }
+            ],
+            [
+              {
+                "text": "DHL Hub Leipzig GmbH, Customer Database Coordinator, Postfach 11 11, 04435 Schkeuditz",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 52.08000183105469,
+                  "y1": 169.8345489501953,
+                  "x2": 373.67999267578125,
+                  "y2": 179.4825439453125
+                }
+              }
+            ],
+            [
+              {
+                "text": "E-Mail:",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 52.079986572265625,
+                  "y1": 179.7960968017578,
+                  "x2": 76.4725570678711,
+                  "y2": 189.444091796875
+                }
+              },
+              {
+                "text": "lejhubcdb@dhl.com",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 76.44039154052734,
+                  "y1": 179.79457092285156,
+                  "x2": 150.48036193847656,
+                  "y2": 189.444091796875
+                }
+              }
+            ],
+            [
+              {
+                "text": "Telefax:",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 160.0801239013672,
+                  "y1": 179.79457092285156,
+                  "x2": 187.46678161621094,
+                  "y2": 189.44256591796875
+                }
+              },
+              {
+                "text": "+49 (0) 341 / 4499 88 6104",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 187.44024658203125,
+                  "y1": 179.79457092285156,
+                  "x2": 290.15838623046875,
+                  "y2": 189.44256591796875
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 419.760009765625,
+            "y1": 159.6654815673828,
+            "x2": 549.9476928710938,
+            "y2": 189.44256591796875
+          },
+          "lines": [
+            [
+              {
+                "text": "Do you have any questions?",
+                "font": "Delivery-Bold",
+                "size": 8.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 419.760009765625,
+                  "y1": 159.6654815673828,
+                  "x2": 534.55224609375,
+                  "y2": 169.8119659423828
+                }
+              }
+            ],
+            [
+              {
+                "text": "Give us a call.",
+                "font": "Delivery-Bold",
+                "size": 8.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 419.760009765625,
+                  "y1": 169.62550354003906,
+                  "x2": 471.3124694824219,
+                  "y2": 179.77198791503906
+                }
+              }
+            ],
+            [
+              {
+                "text": "Telephone:",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 419.760009765625,
+                  "y1": 179.79457092285156,
+                  "x2": 460.19317626953125,
+                  "y2": 189.44256591796875
+                }
+              },
+              {
+                "text": "+49 (0) 341 / 4499 4480",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 460.19317626953125,
+                  "y1": 179.79457092285156,
+                  "x2": 549.9476928710938,
+                  "y2": 189.44256591796875
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 46.119998931884766,
+            "y1": 214.0679931640625,
+            "x2": 493.9360046386719,
+            "y2": 226.43399047851562
+          },
+          "lines": [
+            [
+              {
+                "text": "AAA",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.119998931884766,
+                  "y1": 214.0679931640625,
+                  "x2": 64.12899780273438,
+                  "y2": 226.43399047851562
+                }
+              }
+            ],
+            [
+              {
+                "text": "DDQDWQ",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 311.44000244140625,
+                  "y1": 214.0679931640625,
+                  "x2": 353.43402099609375,
+                  "y2": 226.43399047851562
+                }
+              }
+            ],
+            [
+              {
+                "text": "ewqdewd",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 455.9200134277344,
+                  "y1": 214.0679931640625,
+                  "x2": 493.9360046386719,
+                  "y2": 226.43399047851562
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 46.119998931884766,
+            "y1": 235.427978515625,
+            "x2": 327.9460144042969,
+            "y2": 247.79397583007812
+          },
+          "lines": [
+            [
+              {
+                "text": "dfewfw",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.119998931884766,
+                  "y1": 235.427978515625,
+                  "x2": 74.12800598144531,
+                  "y2": 247.79397583007812
+                }
+              }
+            ],
+            [
+              {
+                "text": "fewf",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 311.44000244140625,
+                  "y1": 235.427978515625,
+                  "x2": 327.9460144042969,
+                  "y2": 247.79397583007812
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 46.119998931884766,
+            "y1": 256.7879638671875,
+            "x2": 339.4480285644531,
+            "y2": 269.1539611816406
+          },
+          "lines": [
+            [
+              {
+                "text": "fwefew",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.119998931884766,
+                  "y1": 256.7879638671875,
+                  "x2": 74.12800598144531,
+                  "y2": 269.1539611816406
+                }
+              }
+            ],
+            [
+              {
+                "text": "wefewf",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 311.44000244140625,
+                  "y1": 256.7879638671875,
+                  "x2": 339.4480285644531,
+                  "y2": 269.1539611816406
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 46.119998931884766,
+            "y1": 279.4679870605469,
+            "x2": 339.4480285644531,
+            "y2": 291.833984375
+          },
+          "lines": [
+            [
+              {
+                "text": "wefew",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.119998931884766,
+                  "y1": 279.4679870605469,
+                  "x2": 71.62600708007812,
+                  "y2": 291.833984375
+                }
+              }
+            ],
+            [
+              {
+                "text": "ewfewf",
+                "font": "Helvetica",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 311.44000244140625,
+                  "y1": 279.4679870605469,
+                  "x2": 339.4480285644531,
+                  "y2": 291.833984375
+                }
+              }
+            ]
+          ]
+        }
+      ],
+      "form_fields": [
+        {
+          "name": "Company",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "AAA",
+          "position": {
+            "x1": 45.119998931884766,
+            "y1": 214.32000732421875,
+            "x2": 284.3999938964844,
+            "y2": 226.91998291015625,
+            "width": 239.2799949645996,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "DHL EXPRESS account number optional",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "DDQDWQ",
+          "position": {
+            "x1": 310.44000244140625,
+            "y1": 214.32000732421875,
+            "x2": 442.9200134277344,
+            "y2": 226.91998291015625,
+            "width": 132.48001098632812,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "CDBreference optional",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "ewqdewd",
+          "position": {
+            "x1": 454.9200134277344,
+            "y1": 214.32000732421875,
+            "x2": 555.5999755859375,
+            "y2": 226.91998291015625,
+            "width": 100.67996215820312,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Street No",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "dfewfw",
+          "position": {
+            "x1": 45.119998931884766,
+            "y1": 235.67999267578125,
+            "x2": 284.3999938964844,
+            "y2": 248.27996826171875,
+            "width": 239.2799949645996,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "ZIP City",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "fewf",
+          "position": {
+            "x1": 310.44000244140625,
+            "y1": 235.67999267578125,
+            "x2": 555.5999755859375,
+            "y2": 248.27996826171875,
+            "width": 245.15997314453125,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Telephone",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "fwefew",
+          "position": {
+            "x1": 45.119998931884766,
+            "y1": 257.03997802734375,
+            "x2": 284.3999938964844,
+            "y2": 269.63995361328125,
+            "width": 239.2799949645996,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Fax",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "wefewf",
+          "position": {
+            "x1": 310.44000244140625,
+            "y1": 257.03997802734375,
+            "x2": 555.5999755859375,
+            "y2": 269.63995361328125,
+            "width": 245.15997314453125,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "EMail",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "wefew",
+          "position": {
+            "x1": 45.119998931884766,
+            "y1": 279.719970703125,
+            "x2": 284.3999938964844,
+            "y2": 292.32000732421875,
+            "width": 239.2799949645996,
+            "height": 12.60003662109375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Contact",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "ewfewf",
+          "position": {
+            "x1": 310.44000244140625,
+            "y1": 279.719970703125,
+            "x2": 555.5999755859375,
+            "y2": 292.32000732421875,
+            "width": 245.15997314453125,
+            "height": 12.60003662109375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Economic Operators Registration and Identification number",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "Hello World",
+          "position": {
+            "x1": 52.08000183105469,
+            "y1": 334.91998291015625,
+            "x2": 322.32000732421875,
+            "y2": 352.67999267578125,
+            "width": 270.24000549316406,
+            "height": 17.760009765625
+          },
+          "flags": 25165824
+        },
+        {
+          "name": "BRANCH NUMBER",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 336.4800109863281,
+            "y1": 334.91998291015625,
+            "x2": 399.9599914550781,
+            "y2": 352.67999267578125,
+            "width": 63.47998046875,
+            "height": 17.760009765625
+          },
+          "flags": 25165824
+        },
+        {
+          "name": "VATID",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 405.6000061035156,
+            "y1": 616.5599975585938,
+            "x2": 547.4400024414062,
+            "y2": 629.1599731445312,
+            "width": 141.83999633789062,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Name in capital letters",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 45.119998931884766,
+            "y1": 674.52001953125,
+            "x2": 284.3999938964844,
+            "y2": 687.1199951171875,
+            "width": 239.2799949645996,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "City date",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 45.119998931884766,
+            "y1": 702.3599853515625,
+            "x2": 284.3999938964844,
+            "y2": 714.9599609375,
+            "width": 239.2799949645996,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Check Box8",
+          "type": {
+            "id": 2,
+            "name": "CHECKBOX"
+          },
+          "value": "",
+          "position": {
+            "x1": 177.51199340820312,
+            "y1": 608.9869995117188,
+            "x2": 205.46099853515625,
+            "y2": 628.5579833984375,
+            "width": 27.949005126953125,
+            "height": 19.57098388671875
+          },
+          "flags": 0
+        },
+        {
+          "name": "Check Box9",
+          "type": {
+            "id": 2,
+            "name": "CHECKBOX"
+          },
+          "value": "",
+          "position": {
+            "x1": 234.22799682617188,
+            "y1": 609.1499633789062,
+            "x2": 262.177001953125,
+            "y2": 628.720947265625,
+            "width": 27.949005126953125,
+            "height": 19.57098388671875
+          },
+          "flags": 0
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "page_number": 2,
+      "text_blocks": [
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 69.55196380615234,
+            "x2": 373.3860168457031,
+            "y2": 114.1199722290039
+          },
+          "lines": [
+            [
+              {
+                "text": "ANNEX I",
+                "font": "Delivery-Regular",
+                "size": 18.0,
+                "color": -2882287,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 69.55196380615234,
+                  "x2": 114.88200378417969,
+                  "y2": 91.15196228027344
+                }
+              }
+            ],
+            [
+              {
+                "text": "BILLING OF IMPORT DUTIES AND TAXES",
+                "font": "Delivery-Bold",
+                "size": 18.0,
+                "color": -2882287,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 91.40396881103516,
+                  "x2": 373.3860168457031,
+                  "y2": 114.1199722290039
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 218.90396118164062,
+            "x2": 529.4940185546875,
+            "y2": 226.1039581298828
+          },
+          "lines": [
+            [
+              {
+                "text": "Company",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 218.90396118164062,
+                  "x2": 71.21399688720703,
+                  "y2": 226.1039581298828
+                }
+              }
+            ],
+            [
+              {
+                "text": "DHL EXPRESS account number (optional)",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 298.67999267578125,
+                  "y1": 218.90396118164062,
+                  "x2": 407.8139953613281,
+                  "y2": 226.1039581298828
+                }
+              }
+            ],
+            [
+              {
+                "text": "CDB-reference (optional)",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 462.6000061035156,
+                  "y1": 218.90396118164062,
+                  "x2": 529.4940185546875,
+                  "y2": 226.1039581298828
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.119998931884766,
+            "y1": 240.26400756835938,
+            "x2": 321.0539855957031,
+            "y2": 247.46400451660156
+          },
+          "lines": [
+            [
+              {
+                "text": "Street, No.",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.119998931884766,
+                  "y1": 240.26400756835938,
+                  "x2": 73.85399627685547,
+                  "y2": 247.46400451660156
+                }
+              }
+            ],
+            [
+              {
+                "text": "ZIP, City",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 298.67999267578125,
+                  "y1": 240.26400756835938,
+                  "x2": 321.0539855957031,
+                  "y2": 247.46400451660156
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 52.31999969482422,
+            "y1": 755.6279907226562,
+            "x2": 133.0139923095703,
+            "y2": 770.4239501953125
+          },
+          "lines": [
+            [
+              {
+                "text": "DHL Express Germany GmbH",
+                "font": "Delivery-Bold",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 52.31999969482422,
+                  "y1": 755.6279907226562,
+                  "x2": 130.47537231445312,
+                  "y2": 763.199951171875
+                }
+              }
+            ],
+            [
+              {
+                "text": "Management:",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 52.31999969482422,
+                  "y1": 763.2239379882812,
+                  "x2": 89.6939926147461,
+                  "y2": 770.4239501953125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 52.31999969482422,
+            "y1": 778.2239379882812,
+            "x2": 136.13400268554688,
+            "y2": 785.4239501953125
+          },
+          "lines": [
+            [
+              {
+                "text": "Chairman of Supervisory Board:",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 52.31999969482422,
+                  "y1": 778.2239379882812,
+                  "x2": 136.13400268554688,
+                  "y2": 785.4239501953125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 151.55999755859375,
+            "y1": 755.783935546875,
+            "x2": 275.1120300292969,
+            "y2": 770.4239501953125
+          },
+          "lines": [
+            [
+              {
+                "text": "Registergericht Bonn, HRB 13192",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 151.55999755859375,
+                  "y1": 755.783935546875,
+                  "x2": 240.66001892089844,
+                  "y2": 762.9839477539062
+                }
+              }
+            ],
+            [
+              {
+                "text": "Mustafa Tonguc (Chairman), Kris Van Humbeek",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 151.55999755859375,
+                  "y1": 763.2239379882812,
+                  "x2": 275.1120300292969,
+                  "y2": 770.4239501953125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 151.5600128173828,
+            "y1": 778.2239379882812,
+            "x2": 188.77200317382812,
+            "y2": 785.4239501953125
+          },
+          "lines": [
+            [
+              {
+                "text": "Sabine Müller",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 151.5600128173828,
+                  "y1": 778.2239379882812,
+                  "x2": 188.77200317382812,
+                  "y2": 785.4239501953125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 410.27099609375,
+            "y1": 752.3899536132812,
+            "x2": 526.5383911132812,
+            "y2": 774.58984375
+          },
+          "lines": [
+            [
+              {
+                "text": "DHL Hub Leipzig GmbH and DHL Express",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 410.27099609375,
+                  "y1": 752.3899536132812,
+                  "x2": 517.5198364257812,
+                  "y2": 759.5899658203125
+                }
+              }
+            ],
+            [
+              {
+                "text": "Germany GmbH are approved as Authorized",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 410.27099609375,
+                  "y1": 759.8898315429688,
+                  "x2": 526.5383911132812,
+                  "y2": 767.0899658203125
+                }
+              }
+            ],
+            [
+              {
+                "text": "Economic Operator: AEO C/S 100593",
+                "font": "Delivery-Regular",
+                "size": 6.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 410.2713928222656,
+                  "y1": 767.3898315429688,
+                  "x2": 506.9314880371094,
+                  "y2": 774.58984375
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 52.67999267578125,
+            "y1": 150.3054962158203,
+            "x2": 374.2799987792969,
+            "y2": 180.0841064453125
+          },
+          "lines": [
+            [
+              {
+                "text": "Please return the documents to:",
+                "font": "Delivery-Bold",
+                "size": 8.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 52.68000030517578,
+                  "y1": 150.3054962158203,
+                  "x2": 169.27212524414062,
+                  "y2": 160.4519805908203
+                }
+              }
+            ],
+            [
+              {
+                "text": "DHL Hub Leipzig GmbH, Customer Database Coordinator, Postfach 11 11, 04435 Schkeuditz",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 52.68000030517578,
+                  "y1": 160.4745635986328,
+                  "x2": 374.2799987792969,
+                  "y2": 170.12255859375
+                }
+              }
+            ],
+            [
+              {
+                "text": "E-Mail:",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 52.67999267578125,
+                  "y1": 170.4361114501953,
+                  "x2": 77.07256317138672,
+                  "y2": 180.0841064453125
+                }
+              },
+              {
+                "text": "lejhubcdb@dhl.com",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 77.04039764404297,
+                  "y1": 170.4345245361328,
+                  "x2": 151.08035278320312,
+                  "y2": 180.0841064453125
+                }
+              }
+            ],
+            [
+              {
+                "text": "Telefax:",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 160.68011474609375,
+                  "y1": 170.4345245361328,
+                  "x2": 188.0667724609375,
+                  "y2": 180.08251953125
+                }
+              },
+              {
+                "text": "+49 (0) 341 / 4499 88 6104",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 188.0402374267578,
+                  "y1": 170.4345245361328,
+                  "x2": 290.7583923339844,
+                  "y2": 180.08251953125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 420.3599853515625,
+            "y1": 150.3054962158203,
+            "x2": 550.5476684570312,
+            "y2": 180.08251953125
+          },
+          "lines": [
+            [
+              {
+                "text": "Do you have any questions?",
+                "font": "Delivery-Bold",
+                "size": 8.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 420.3599853515625,
+                  "y1": 150.3054962158203,
+                  "x2": 535.1522216796875,
+                  "y2": 160.4519805908203
+                }
+              }
+            ],
+            [
+              {
+                "text": "Give us a call.",
+                "font": "Delivery-Bold",
+                "size": 8.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 420.3599853515625,
+                  "y1": 160.26551818847656,
+                  "x2": 471.9124450683594,
+                  "y2": 170.41200256347656
+                }
+              }
+            ],
+            [
+              {
+                "text": "Telephone:",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 420.3599853515625,
+                  "y1": 170.4345245361328,
+                  "x2": 460.79315185546875,
+                  "y2": 180.08251953125
+                }
+              },
+              {
+                "text": "+49 (0) 341 / 4499 4480",
+                "font": "Delivery-Regular",
+                "size": 8.039999961853027,
+                "color": -12566464,
+                "position": {
+                  "x1": 460.79315185546875,
+                  "y1": 170.4345245361328,
+                  "x2": 550.5476684570312,
+                  "y2": 180.08251953125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.18199920654297,
+            "y1": 280.4074401855469,
+            "x2": 223.51051330566406,
+            "y2": 292.9769592285156
+          },
+          "lines": [
+            [
+              {
+                "text": "BILLING OF IMPORT DUTIES AND TAXES",
+                "font": "Delivery,Bold",
+                "size": 9.960000038146973,
+                "color": -2882287,
+                "position": {
+                  "x1": 45.18199920654297,
+                  "y1": 280.4074401855469,
+                  "x2": 223.51051330566406,
+                  "y2": 292.9769592285156
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 47.20100021362305,
+            "y1": 297.4583740234375,
+            "x2": 237.05224609375,
+            "y2": 311.5119323730469
+          },
+          "lines": [
+            [
+              {
+                "text": "",
+                "font": "Webdings",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 47.20100021362305,
+                  "y1": 300.5559387207031,
+                  "x2": 57.1609992980957,
+                  "y2": 310.51593017578125
+                }
+              },
+              {
+                "text": "USING A OWN DEFERMENT ACCOUNT",
+                "font": "Delivery,Bold",
+                "size": 9.960000038146973,
+                "color": -2882287,
+                "position": {
+                  "x1": 65.10299682617188,
+                  "y1": 298.9424133300781,
+                  "x2": 234.37432861328125,
+                  "y2": 311.5119323730469
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 47.8739013671875,
+            "y1": 311.5592041015625,
+            "x2": 556.6432495117188,
+            "y2": 361.46722412109375
+          },
+          "lines": [
+            [
+              {
+                "text": "Customs duties and taxes are debited directly via the customer's own customs deferment account. The fixed import",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 47.87400817871094,
+                  "y1": 311.5592041015625,
+                  "x2": 540.5979614257812,
+                  "y2": 323.5113830566406
+                }
+              }
+            ],
+            [
+              {
+                "text": "duties are not due until the 16th of the following month and are collected directly by the customs payment office.",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 47.8739013671875,
+                  "y1": 324.2112121582031,
+                  "x2": 531.6187744140625,
+                  "y2": 336.1632080078125
+                }
+              },
+              {
+                "text": "The",
+                "font": "Delivery,Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 531.463134765625,
+                  "y1": 323.9522705078125,
+                  "x2": 550.1666259765625,
+                  "y2": 336.52178955078125
+                }
+              }
+            ],
+            [
+              {
+                "text": "customer provides the necessary information using the additional \"Deferment account\" form (> download).",
+                "font": "Delivery,Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 47.8741455078125,
+                  "y1": 336.6042785644531,
+                  "x2": 525.13525390625,
+                  "y2": 349.1737976074219
+                }
+              },
+              {
+                "text": "Billing",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 525.1082763671875,
+                  "y1": 336.86322021484375,
+                  "x2": 556.6432495117188,
+                  "y2": 348.8152160644531
+                }
+              }
+            ],
+            [
+              {
+                "text": "of used customs services and expenses may be only invoiced on invoice.",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 47.874176025390625,
+                  "y1": 349.51519775390625,
+                  "x2": 353.95977783203125,
+                  "y2": 361.46722412109375
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.327999114990234,
+            "y1": 410.261474609375,
+            "x2": 211.6511993408203,
+            "y2": 422.83099365234375
+          },
+          "lines": [
+            [
+              {
+                "text": "OPTIONS FOR PAYMENT ON INVOICE",
+                "font": "Delivery,Bold",
+                "size": 9.960000038146973,
+                "color": -2882287,
+                "position": {
+                  "x1": 45.327999114990234,
+                  "y1": 410.261474609375,
+                  "x2": 211.6511993408203,
+                  "y2": 422.83099365234375
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.327999114990234,
+            "y1": 428.7414855957031,
+            "x2": 511.81024169921875,
+            "y2": 441.3110046386719
+          },
+          "lines": [
+            [
+              {
+                "text": "",
+                "font": "Webdings",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.327999114990234,
+                  "y1": 430.3550109863281,
+                  "x2": 55.28799819946289,
+                  "y2": 440.31500244140625
+                }
+              },
+              {
+                "text": "A.   Issue a direct debit authorisation via a valid SEPA mandate for your DHL Express account number",
+                "font": "Delivery,Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 61.68099594116211,
+                  "y1": 428.7414855957031,
+                  "x2": 511.81024169921875,
+                  "y2": 441.3110046386719
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 46.067626953125,
+            "y1": 447.7042236328125,
+            "x2": 560.9336547851562,
+            "y2": 507.4642028808594
+          },
+          "lines": [
+            [
+              {
+                "text": "When issuing a SEPA mandate, you will receive a 50",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.0679931640625,
+                  "y1": 447.7042236328125,
+                  "x2": 298.08837890625,
+                  "y2": 459.65643310546875
+                }
+              },
+              {
+                "text": "% discount on the costs incurred for using DHL's own",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 302.25958251953125,
+                  "y1": 447.7042236328125,
+                  "x2": 560.9259643554688,
+                  "y2": 459.6562194824219
+                }
+              }
+            ],
+            [
+              {
+                "text": "deferment account. The additional fee is therefore only 1",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.067626953125,
+                  "y1": 459.6562194824219,
+                  "x2": 296.900634765625,
+                  "y2": 471.60821533203125
+                }
+              },
+              {
+                "text": "% of the import duties paid, but at least",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 299.7046203613281,
+                  "y1": 459.6562194824219,
+                  "x2": 475.2178649902344,
+                  "y2": 471.60821533203125
+                }
+              },
+              {
+                "text": "EUR",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 475.921630859375,
+                  "y1": 459.6562194824219,
+                  "x2": 496.52911376953125,
+                  "y2": 471.60821533203125
+                }
+              },
+              {
+                "text": "6.25 plus VAT",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 497.234619140625,
+                  "y1": 459.6562194824219,
+                  "x2": 560.9262084960938,
+                  "y2": 471.60821533203125
+                }
+              }
+            ],
+            [
+              {
+                "text": "per item handled (Service Duty Tax Processing). DHL Express Germany GmbH is, however, not obliged to utilise",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.067626953125,
+                  "y1": 471.60821533203125,
+                  "x2": 560.9255981445312,
+                  "y2": 483.5602111816406
+                }
+              }
+            ],
+            [
+              {
+                "text": "its own deferment accounts and may refuse customs clearance of shipments in individual cases and for valid reasons",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.067626953125,
+                  "y1": 483.5602111816406,
+                  "x2": 560.9336547851562,
+                  "y2": 495.51220703125
+                }
+              }
+            ],
+            [
+              {
+                "text": "at its own discretion. The invoiced amounts are due for payment within 7 days, unless otherwise agreed in writing.",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.067626953125,
+                  "y1": 495.51220703125,
+                  "x2": 540.302001953125,
+                  "y2": 507.4642028808594
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.39400100708008,
+            "y1": 579.074462890625,
+            "x2": 433.9684753417969,
+            "y2": 591.6439819335938
+          },
+          "lines": [
+            [
+              {
+                "text": "",
+                "font": "Webdings",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.39400100708008,
+                  "y1": 580.68798828125,
+                  "x2": 55.354000091552734,
+                  "y2": 590.6480102539062
+                }
+              },
+              {
+                "text": "B.   Transfer of customs duties and taxes disbursed by DHL Express Germany GmbH",
+                "font": "Delivery,Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 62.180999755859375,
+                  "y1": 579.074462890625,
+                  "x2": 433.9684753417969,
+                  "y2": 591.6439819335938
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.281005859375,
+            "y1": 597.6934204101562,
+            "x2": 555.1326904296875,
+            "y2": 646.9054565429688
+          },
+          "lines": [
+            [
+              {
+                "text": "In the case of bank transfer, the additional fee for the use of DHL's own deferment account is charged as standard in",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.29200744628906,
+                  "y1": 597.6934204101562,
+                  "x2": 555.1326904296875,
+                  "y2": 609.6454467773438
+                }
+              }
+            ],
+            [
+              {
+                "text": "the amount of 2",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.281005859375,
+                  "y1": 610.1134033203125,
+                  "x2": 125.56640625,
+                  "y2": 622.0654296875
+                }
+              },
+              {
+                "text": "% of the disbursed import duties, but at least €12.50 plus VAT, per shipment handled",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 129.70899963378906,
+                  "y1": 610.1134033203125,
+                  "x2": 555.13037109375,
+                  "y2": 622.0654296875
+                }
+              }
+            ],
+            [
+              {
+                "text": "(Service Duty Tax Processing). Invoiced amounts are due for payment within 7 days, unless otherwise agreed in",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.281005859375,
+                  "y1": 622.5333862304688,
+                  "x2": 555.129638671875,
+                  "y2": 634.4854125976562
+                }
+              }
+            ],
+            [
+              {
+                "text": "writing.",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.28106689453125,
+                  "y1": 634.9534301757812,
+                  "x2": 82.551025390625,
+                  "y2": 646.9054565429688
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.272003173828125,
+            "y1": 667.3854370117188,
+            "x2": 555.1007080078125,
+            "y2": 741.4974365234375
+          },
+          "lines": [
+            [
+              {
+                "text": "Storage as a result of delays attributable to the customer is subject to a storage fee of",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.282066345214844,
+                  "y1": 667.3854370117188,
+                  "x2": 422.59539794921875,
+                  "y2": 679.3374633789062
+                }
+              },
+              {
+                "text": "EUR",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 423.3460388183594,
+                  "y1": 667.3854370117188,
+                  "x2": 441.7319030761719,
+                  "y2": 679.3374633789062
+                }
+              },
+              {
+                "text": "1",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 441.69189453125,
+                  "y1": 667.3854370117188,
+                  "x2": 450.4034423828125,
+                  "y2": 679.3374633789062
+                }
+              },
+              {
+                "text": "1",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 450.3634338378906,
+                  "y1": 667.3854370117188,
+                  "x2": 456.2398376464844,
+                  "y2": 679.3374633789062
+                }
+              },
+              {
+                "text": "per shipment and per",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 456.1998291015625,
+                  "y1": 667.3854370117188,
+                  "x2": 555.1004638671875,
+                  "y2": 679.3374633789062
+                }
+              }
+            ],
+            [
+              {
+                "text": "day +",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.272064208984375,
+                  "y1": 679.8174438476562,
+                  "x2": 70.63938903808594,
+                  "y2": 691.7694702148438
+                }
+              },
+              {
+                "text": "EUR",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 70.5993881225586,
+                  "y1": 679.8174438476562,
+                  "x2": 88.98522186279297,
+                  "y2": 691.7694702148438
+                }
+              },
+              {
+                "text": "0",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 88.94522857666016,
+                  "y1": 679.8174438476562,
+                  "x2": 98.00047302246094,
+                  "y2": 691.7694702148438
+                }
+              },
+              {
+                "text": ".",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 97.9604721069336,
+                  "y1": 679.8174438476562,
+                  "x2": 100.23135375976562,
+                  "y2": 691.7694702148438
+                }
+              },
+              {
+                "text": "2",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 100.19135284423828,
+                  "y1": 679.8174438476562,
+                  "x2": 106.06775665283203,
+                  "y2": 691.7694702148438
+                }
+              },
+              {
+                "text": "2",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 106.02775573730469,
+                  "y1": 679.8174438476562,
+                  "x2": 111.90415954589844,
+                  "y2": 691.7694702148438
+                }
+              },
+              {
+                "text": "per kg/day plus VAT from the 3rd day. Customs clearance is included for up to 5 items subject",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 111.8641586303711,
+                  "y1": 679.8174438476562,
+                  "x2": 555.1001586914062,
+                  "y2": 691.7694702148438
+                }
+              }
+            ],
+            [
+              {
+                "text": "to-goods tariffs. Starting with the 6th item subject to a goods tariff, there will be a charge of",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2720947265625,
+                  "y1": 692.2494506835938,
+                  "x2": 483.69744873046875,
+                  "y2": 704.2014770507812
+                }
+              },
+              {
+                "text": "EUR",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 486.66510009765625,
+                  "y1": 692.2494506835938,
+                  "x2": 505.05096435546875,
+                  "y2": 704.2014770507812
+                }
+              },
+              {
+                "text": "5",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 505.0109558105469,
+                  "y1": 692.2494506835938,
+                  "x2": 515.9324951171875,
+                  "y2": 704.2014770507812
+                }
+              },
+              {
+                "text": ".",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 515.8925170898438,
+                  "y1": 692.2494506835938,
+                  "x2": 518.1633911132812,
+                  "y2": 704.2014770507812
+                }
+              },
+              {
+                "text": "00 plus",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 518.1234130859375,
+                  "y1": 692.2494506835938,
+                  "x2": 555.1001586914062,
+                  "y2": 704.2014770507812
+                }
+              }
+            ],
+            [
+              {
+                "text": "VAT per item. Paper-based customs clearance (luggage or shipment for private purposes)",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2720947265625,
+                  "y1": 704.681396484375,
+                  "x2": 471.3523254394531,
+                  "y2": 716.6334228515625
+                }
+              },
+              {
+                "text": "is charged at EUR",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 475.2000732421875,
+                  "y1": 704.681396484375,
+                  "x2": 555.1007080078125,
+                  "y2": 716.6334228515625
+                }
+              }
+            ],
+            [
+              {
+                "text": "45.00 and returned goods at EUR 40.00",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.272064208984375,
+                  "y1": 717.1134033203125,
+                  "x2": 227.07608032226562,
+                  "y2": 729.0654296875
+                }
+              },
+              {
+                "text": "plus VAT per shipment. In the case of multilingualism, the German",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 228.61306762695312,
+                  "y1": 717.1134033203125,
+                  "x2": 555.1004028320312,
+                  "y2": 729.0654296875
+                }
+              }
+            ],
+            [
+              {
+                "text": "version is legally binding. This Agreement shall be governed by German law. The court of jurisdiction is Bonn.",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.272003173828125,
+                  "y1": 729.54541015625,
+                  "x2": 520.5206909179688,
+                  "y2": 741.4974365234375
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 48.09700012207031,
+            "y1": 374.3404235839844,
+            "x2": 325.90948486328125,
+            "y2": 382.6924133300781
+          },
+          "lines": [
+            [
+              {
+                "text": "»  Note: For more information on how to apply a deferment account, please visit www.zoll.de",
+                "font": "Delivery",
+                "size": 6.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 48.09700012207031,
+                  "y1": 374.3404235839844,
+                  "x2": 325.90948486328125,
+                  "y2": 382.6924133300781
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 43.803001403808594,
+            "y1": 516.9794921875,
+            "x2": 257.70294189453125,
+            "y2": 525.7630004882812
+          },
+          "lines": [
+            [
+              {
+                "text": "»",
+                "font": "Delivery",
+                "size": 6.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 43.803001403808594,
+                  "y1": 517.160400390625,
+                  "x2": 47.50572204589844,
+                  "y2": 525.512451171875
+                }
+              },
+              {
+                "text": "Note: Just use our DHL Express authorization form (> download).",
+                "font": "Delivery,Bold",
+                "size": 6.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 47.50572204589844,
+                  "y1": 516.9794921875,
+                  "x2": 257.70294189453125,
+                  "y2": 525.7630004882812
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 46.99400329589844,
+            "y1": 532.8124389648438,
+            "x2": 330.7746276855469,
+            "y2": 544.7644653320312
+          },
+          "lines": [
+            [
+              {
+                "text": "",
+                "font": "Webdings",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.99400329589844,
+                  "y1": 534.1669921875,
+                  "x2": 56.954002380371094,
+                  "y2": 544.1270141601562
+                }
+              },
+              {
+                "text": "Not required, DHL Express has already a valid SEPA mandate.",
+                "font": "Delivery",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 59.116004943847656,
+                  "y1": 532.8124389648438,
+                  "x2": 330.7746276855469,
+                  "y2": 544.7644653320312
+                }
+              }
+            ]
+          ]
+        }
+      ],
+      "form_fields": [
+        {
+          "name": "Company_2",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 45.119998931884766,
+            "y1": 204.3599853515625,
+            "x2": 276.6000061035156,
+            "y2": 216.9599609375,
+            "width": 231.48000717163086,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "DHL EXPRESS account number optional_2",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 298.20001220703125,
+            "y1": 204.3599853515625,
+            "x2": 442.9200134277344,
+            "y2": 216.9599609375,
+            "width": 144.72000122070312,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "CDBreference optional_2",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 457.32000732421875,
+            "y1": 204.3599853515625,
+            "x2": 555.5999755859375,
+            "y2": 216.9599609375,
+            "width": 98.27996826171875,
+            "height": 12.5999755859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Street No_2",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 45.119998931884766,
+            "y1": 225.719970703125,
+            "x2": 276.6000061035156,
+            "y2": 238.32000732421875,
+            "width": 231.48000717163086,
+            "height": 12.60003662109375
+          },
+          "flags": 0
+        },
+        {
+          "name": "ZIP City_2",
+          "type": {
+            "id": 7,
+            "name": "TEXT_MULTILINE"
+          },
+          "value": "",
+          "position": {
+            "x1": 298.20001220703125,
+            "y1": 225.719970703125,
+            "x2": 555.5999755859375,
+            "y2": 238.32000732421875,
+            "width": 257.39996337890625,
+            "height": 12.60003662109375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Check Box11",
+          "type": {
+            "id": 2,
+            "name": "CHECKBOX"
+          },
+          "value": "",
+          "position": {
+            "x1": 45.03260040283203,
+            "y1": 298.88995361328125,
+            "x2": 58.84349822998047,
+            "y2": 312.177001953125,
+            "width": 13.810897827148438,
+            "height": 13.28704833984375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Check Box12",
+          "type": {
+            "id": 2,
+            "name": "CHECKBOX"
+          },
+          "value": "",
+          "position": {
+            "x1": 44.03260040283203,
+            "y1": 429.0889892578125,
+            "x2": 56.796199798583984,
+            "y2": 442.3769836425781,
+            "width": 12.763599395751953,
+            "height": 13.287994384765625
+          },
+          "flags": 0
+        },
+        {
+          "name": "Check Box13",
+          "type": {
+            "id": 2,
+            "name": "CHECKBOX"
+          },
+          "value": "",
+          "position": {
+            "x1": 44.83250045776367,
+            "y1": 530.8819580078125,
+            "x2": 58.64339828491211,
+            "y2": 543.64599609375,
+            "width": 13.810897827148438,
+            "height": 12.7640380859375
+          },
+          "flags": 0
+        },
+        {
+          "name": "Check Box14",
+          "type": {
+            "id": 2,
+            "name": "CHECKBOX"
+          },
+          "value": "",
+          "position": {
+            "x1": 42.98529815673828,
+            "y1": 579.72900390625,
+            "x2": 57.31990051269531,
+            "y2": 593.5399780273438,
+            "width": 14.334602355957031,
+            "height": 13.81097412109375
+          },
+          "flags": 0
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "page_number": 3,
+      "text_blocks": [
+        {
+          "bbox": {
+            "x1": 285.3599853515625,
+            "y1": 34.07999801635742,
+            "x2": 313.0799865722656,
+            "y2": 50.243995666503906
+          },
+          "lines": [
+            [
+              {
+                "text": "DHL",
+                "font": "TimesNewRomanPSMT",
+                "size": 12.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 285.3599853515625,
+                  "y1": 34.07999801635742,
+                  "x2": 313.0799865722656,
+                  "y2": 50.243995666503906
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 44.279998779296875,
+            "y1": 88.08647918701172,
+            "x2": 514.0785522460938,
+            "y2": 108.2280044555664
+          },
+          "lines": [
+            [
+              {
+                "text": "NOTES ON CUSTOMS CLEARANCE OF YOUR IMPORT SHIPMENTS",
+                "font": "Delivery-Bold",
+                "size": 15.960000038146973,
+                "color": -2882287,
+                "position": {
+                  "x1": 44.279998779296875,
+                  "y1": 88.08647918701172,
+                  "x2": 514.0785522460938,
+                  "y2": 108.2280044555664
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 576.7538452148438,
+            "y1": 576.3599853515625,
+            "x2": 586.37255859375,
+            "y2": 775.336669921875
+          },
+          "lines": [
+            [
+              {
+                "text": "DHL Express Germany GmbH, Marketing Services, as of 01/2025",
+                "font": "Bahnschrift",
+                "size": 6.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 576.7538452148438,
+                  "y1": 576.3599853515625,
+                  "x2": 586.37255859375,
+                  "y2": 775.336669921875
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.47999954223633,
+            "y1": 369.8995056152344,
+            "x2": 552.6283569335938,
+            "y2": 518.0279541015625
+          },
+          "lines": [
+            [
+              {
+                "text": "Commercial-/ Pro forma invoice",
+                "font": "Delivery-Bold",
+                "size": 11.039999961853027,
+                "color": -2882287,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 369.8995056152344,
+                  "x2": 206.36111450195312,
+                  "y2": 383.8320007324219
+                }
+              }
+            ],
+            [
+              {
+                "text": "(Shipment accompanying paperwork as a basis for the customs declaration of your shipment in the import country)",
+                "font": "Delivery-Italic",
+                "size": 9.0,
+                "color": -12566464,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 385.3409729003906,
+                  "x2": 491.5980224609375,
+                  "y2": 396.0959777832031
+                }
+              }
+            ],
+            [
+              {
+                "text": "Under-valuated shipments",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 397.4584655761719,
+                  "x2": 166.8255157470703,
+                  "y2": 410.0279846191406
+                }
+              },
+              {
+                "text": "repeatedly lead to delays in customs clearance. Point out to your supplier the",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 166.9131622314453,
+                  "y1": 397.7174072265625,
+                  "x2": 517.203369140625,
+                  "y2": 409.6694030761719
+                }
+              },
+              {
+                "text": "correct",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 518.2391967773438,
+                  "y1": 397.4584655761719,
+                  "x2": 552.5780639648438,
+                  "y2": 410.0279846191406
+                }
+              }
+            ],
+            [
+              {
+                "text": "value of the goods",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 409.4584655761719,
+                  "x2": 130.9427947998047,
+                  "y2": 422.0279846191406
+                }
+              },
+              {
+                "text": ", i.e. the amounts you actually pay to your supplier (in the case of a commercial invoice) or the",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 130.9199981689453,
+                  "y1": 409.7174072265625,
+                  "x2": 552.6075439453125,
+                  "y2": 421.6694030761719
+                }
+              }
+            ],
+            [
+              {
+                "text": "realistic market value (in the case of a pro forma invoice). At the most during a customs inspection, unpleasant ques-",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 421.7174072265625,
+                  "x2": 550.6124267578125,
+                  "y2": 433.6694030761719
+                }
+              }
+            ],
+            [
+              {
+                "text": "tions from the customs authorities can arise if the value of the goods is incorrect. If the",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 433.7174072265625,
+                  "x2": 423.8721618652344,
+                  "y2": 445.6694030761719
+                }
+              },
+              {
+                "text": "shipment recipient is differ-",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 424.0799865722656,
+                  "y1": 433.4584655761719,
+                  "x2": 550.5331420898438,
+                  "y2": 446.0279846191406
+                }
+              }
+            ],
+            [
+              {
+                "text": "ent from the importer",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 445.4584655761719,
+                  "x2": 144.8479461669922,
+                  "y2": 458.0279846191406
+                }
+              },
+              {
+                "text": ", a distinction must be made between the shipment recipient (SHIP-TO) and invoice recipient",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 144.83999633789062,
+                  "y1": 445.7174072265625,
+                  "x2": 550.5983276367188,
+                  "y2": 457.6694030761719
+                }
+              }
+            ],
+            [
+              {
+                "text": "(BILL-TO) on the commercial or pro forma invoice. This simplifies the correct assignment of the shipment to a cus-",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 457.7174072265625,
+                  "x2": 550.6000366210938,
+                  "y2": 469.6694030761719
+                }
+              }
+            ],
+            [
+              {
+                "text": "toms clearance order. In addition to an",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 469.7174072265625,
+                  "x2": 218.06484985351562,
+                  "y2": 481.6694030761719
+                }
+              },
+              {
+                "text": "exact description of the goods",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 218.8800048828125,
+                  "y1": 469.4584655761719,
+                  "x2": 357.627685546875,
+                  "y2": 482.0279846191406
+                }
+              },
+              {
+                "text": "(e.g. condition, material, intended use), it is",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 357.722412109375,
+                  "y1": 469.7174072265625,
+                  "x2": 552.6283569335938,
+                  "y2": 481.6694030761719
+                }
+              }
+            ],
+            [
+              {
+                "text": "also essential to state a goods",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 481.7174072265625,
+                  "x2": 178.0057373046875,
+                  "y2": 493.6694030761719
+                }
+              },
+              {
+                "text": "tariff number",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 178.32000732421875,
+                  "y1": 481.4584655761719,
+                  "x2": 238.9315948486328,
+                  "y2": 494.0279846191406
+                }
+              },
+              {
+                "text": "(HS code, at least 6 digits) and to indicate the",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 238.91665649414062,
+                  "y1": 481.7174072265625,
+                  "x2": 440.7859802246094,
+                  "y2": 493.6694030761719
+                }
+              },
+              {
+                "text": "transport costs",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 441.1047058105469,
+                  "y1": 481.4584655761719,
+                  "x2": 509.89349365234375,
+                  "y2": 494.0279846191406
+                }
+              },
+              {
+                "text": "and pos-",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 509.8684997558594,
+                  "y1": 481.7174072265625,
+                  "x2": 550.481689453125,
+                  "y2": 493.6694030761719
+                }
+              }
+            ],
+            [
+              {
+                "text": "sible",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 493.7174072265625,
+                  "x2": 67.96171569824219,
+                  "y2": 505.6694030761719
+                }
+              },
+              {
+                "text": "surcharges",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 68.04000091552734,
+                  "y1": 493.4584655761719,
+                  "x2": 118.2403793334961,
+                  "y2": 506.0279846191406
+                }
+              },
+              {
+                "text": "(e.g. transport insurance) for a correct declaration of your shipment. Please also make sure that you",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 118.2005386352539,
+                  "y1": 493.7174072265625,
+                  "x2": 550.357421875,
+                  "y2": 505.6694030761719
+                }
+              }
+            ],
+            [
+              {
+                "text": "specify an",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.47999954223633,
+                  "y1": 505.7174072265625,
+                  "x2": 91.003173828125,
+                  "y2": 517.66943359375
+                }
+              },
+              {
+                "text": "Incoterm",
+                "font": "Delivery-Bold",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 90.95999908447266,
+                  "y1": 505.4584655761719,
+                  "x2": 131.95237731933594,
+                  "y2": 518.0279541015625
+                }
+              },
+              {
+                "text": "correctly. If this is not available, we must declare the goods with EXW (ex works).",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 131.9951934814453,
+                  "y1": 505.7174072265625,
+                  "x2": 482.14892578125,
+                  "y2": 517.66943359375
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.2400016784668,
+            "y1": 140.69952392578125,
+            "x2": 531.1303100585938,
+            "y2": 168.31199645996094
+          },
+          "lines": [
+            [
+              {
+                "text": "In order to avoid delays in the customs clearance of your import shipments, we ask you to observe",
+                "font": "Delivery-Bold",
+                "size": 11.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 140.69952392578125,
+                  "x2": 531.1303100585938,
+                  "y2": 154.6320037841797
+                }
+              }
+            ],
+            [
+              {
+                "text": "the following advices.",
+                "font": "Delivery-Bold",
+                "size": 11.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 154.3795166015625,
+                  "x2": 154.13856506347656,
+                  "y2": 168.31199645996094
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 44.040000915527344,
+            "y1": 545.45947265625,
+            "x2": 540.8895874023438,
+            "y2": 618.8294067382812
+          },
+          "lines": [
+            [
+              {
+                "text": "Commodity tariff list",
+                "font": "Delivery-Bold",
+                "size": 11.039999961853027,
+                "color": -2882287,
+                "position": {
+                  "x1": 44.040000915527344,
+                  "y1": 545.45947265625,
+                  "x2": 149.60888671875,
+                  "y2": 559.3919677734375
+                }
+              }
+            ],
+            [
+              {
+                "text": "(Classification of your goods and assignment of the correct goods tariff number)",
+                "font": "Delivery-Italic",
+                "size": 9.0,
+                "color": -14277082,
+                "position": {
+                  "x1": 44.040000915527344,
+                  "y1": 559.5809326171875,
+                  "x2": 353.2644348144531,
+                  "y2": 570.3359375
+                }
+              }
+            ],
+            [
+              {
+                "text": "Do you have a goods tariff list (article number & article description versus goods tariff number)? Then send it to us",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 44.040000915527344,
+                  "y1": 570.8773803710938,
+                  "x2": 540.8139038085938,
+                  "y2": 582.8294067382812
+                }
+              }
+            ],
+            [
+              {
+                "text": "for the correct tariff classification of your goods:",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 44.040000915527344,
+                  "y1": 582.8773803710938,
+                  "x2": 257.4170227050781,
+                  "y2": 594.8294067382812
+                }
+              },
+              {
+                "text": "lejhubcdb@dhl.com",
+                "font": "Delivery-Italic",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 257.8800048828125,
+                  "y1": 582.9271850585938,
+                  "x2": 344.9354553222656,
+                  "y2": 594.8294067382812
+                }
+              },
+              {
+                "text": ". Please let us know whether we can rate the",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 345.0,
+                  "y1": 582.8773803710938,
+                  "x2": 540.816650390625,
+                  "y2": 594.8294067382812
+                }
+              }
+            ],
+            [
+              {
+                "text": "goods to be imported ourselves to the best of our knowledge and belief or whether we should notify you in this",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 44.040000915527344,
+                  "y1": 594.8773803710938,
+                  "x2": 540.8895874023438,
+                  "y2": 606.8294067382812
+                }
+              }
+            ],
+            [
+              {
+                "text": "case for clearance authorization with costs.",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 44.040000915527344,
+                  "y1": 606.8773803710938,
+                  "x2": 232.24163818359375,
+                  "y2": 618.8294067382812
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 46.20000076293945,
+            "y1": 180.53948974609375,
+            "x2": 545.2001953125,
+            "y2": 241.78941345214844
+          },
+          "lines": [
+            [
+              {
+                "text": "EORI number",
+                "font": "Delivery-Bold",
+                "size": 11.039999961853027,
+                "color": -2882287,
+                "position": {
+                  "x1": 46.20000076293945,
+                  "y1": 180.53948974609375,
+                  "x2": 114.08496856689453,
+                  "y2": 194.4719696044922
+                }
+              }
+            ],
+            [
+              {
+                "text": "(Economic Operators´ Registration and Identification Number – Number to identify economic operators)",
+                "font": "Delivery-Italic",
+                "size": 9.0,
+                "color": -10921639,
+                "position": {
+                  "x1": 46.20000076293945,
+                  "y1": 194.78097534179688,
+                  "x2": 448.70703125,
+                  "y2": 205.53598022460938
+                }
+              }
+            ],
+            [
+              {
+                "text": "Customs clearance without a valid EORI number is not possible. Therefore we need your EORI number for the cus-",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.20000076293945,
+                  "y1": 205.83741760253906,
+                  "x2": 543.1542358398438,
+                  "y2": 217.78941345214844
+                }
+              }
+            ],
+            [
+              {
+                "text": "toms clearance of your shipments. This number must be registered with a legal entity permanently resident in the",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.20000076293945,
+                  "y1": 217.83741760253906,
+                  "x2": 545.2001953125,
+                  "y2": 229.78941345214844
+                }
+              }
+            ],
+            [
+              {
+                "text": "EU. Information on the EORI number can be found on the official website of German customs",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.20000076293945,
+                  "y1": 229.83741760253906,
+                  "x2": 447.7646484375,
+                  "y2": 241.78941345214844
+                }
+              },
+              {
+                "text": "www.zoll.de/EN/",
+                "font": "Delivery-Regular",
+                "size": 9.960000038146973,
+                "color": -16777216,
+                "position": {
+                  "x1": 447.8399963378906,
+                  "y1": 229.83741760253906,
+                  "x2": 522.7163696289062,
+                  "y2": 241.78941345214844
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 45.2400016784668,
+            "y1": 260.37451171875,
+            "x2": 542.201416015625,
+            "y2": 347.6318359375
+          },
+          "lines": [
+            [
+              {
+                "text": "Customs clearance order",
+                "font": "Delivery-Bold",
+                "size": 11.039999961853027,
+                "color": -2882287,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 262.01947021484375,
+                  "x2": 168.33045959472656,
+                  "y2": 275.95196533203125
+                }
+              }
+            ],
+            [
+              {
+                "text": "(",
+                "font": "Delivery-Italic",
+                "size": 9.0,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 276.2609558105469,
+                  "x2": 48.3900032043457,
+                  "y2": 287.0159606933594
+                }
+              },
+              {
+                "text": "Power of attorney to handle your import shipments)",
+                "font": "Delivery-Italic",
+                "size": 9.0,
+                "color": -11910102,
+                "position": {
+                  "x1": 48.36000061035156,
+                  "y1": 276.2609558105469,
+                  "x2": 250.4010009765625,
+                  "y2": 287.0159606933594
+                }
+              }
+            ],
+            [
+              {
+                "text": "In order to be able to clear shipments quickly and permanently for free circulation, we ask you to issue a",
+                "font": "Delivery-Regular",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 286.75579833984375,
+                  "x2": 520.2341918945312,
+                  "y2": 299.42779541015625
+                }
+              },
+              {
+                "text": "gen-",
+                "font": "Delivery-Bold",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 520.4400024414062,
+                  "y1": 286.4812316894531,
+                  "x2": 542.1155395507812,
+                  "y2": 299.8079528808594
+                }
+              }
+            ],
+            [
+              {
+                "text": "eral customs clearance order",
+                "font": "Delivery-Bold",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 298.4812316894531,
+                  "x2": 185.65736389160156,
+                  "y2": 311.8079528808594
+                }
+              },
+              {
+                "text": ". This is valid until revoked and authorizes DHL HUB Leipzig to register your",
+                "font": "Delivery-Regular",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 185.63999938964844,
+                  "y1": 298.75579833984375,
+                  "x2": 542.201416015625,
+                  "y2": 311.42779541015625
+                }
+              }
+            ],
+            [
+              {
+                "text": "import shipments on your behalf and for your account (direct representation)",
+                "font": "Delivery-Regular",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 310.75579833984375,
+                  "x2": 399.17193603515625,
+                  "y2": 323.42779541015625
+                }
+              },
+              {
+                "text": "without prior time-consuming",
+                "font": "Delivery-Bold",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 399.2447814941406,
+                  "y1": 310.4812316894531,
+                  "x2": 542.1483154296875,
+                  "y2": 323.8079528808594
+                }
+              }
+            ],
+            [
+              {
+                "text": "contact",
+                "font": "Delivery-Bold",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 322.48126220703125,
+                  "x2": 80.53890991210938,
+                  "y2": 335.8079833984375
+                }
+              },
+              {
+                "text": ". Further information on general customs clearance via DHL Express is available on our website at",
+                "font": "Delivery-Regular",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 80.5199966430664,
+                  "y1": 322.7558288574219,
+                  "x2": 542.1893920898438,
+                  "y2": 335.4278259277344
+                }
+              }
+            ],
+            [
+              {
+                "text": "www.dhl.com/en/express/customs_support.html",
+                "font": "Delivery-Italic",
+                "size": 10.5600004196167,
+                "color": -16777216,
+                "position": {
+                  "x1": 45.2400016784668,
+                  "y1": 334.8086242675781,
+                  "x2": 268.1980895996094,
+                  "y2": 347.4278259277344
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 46.560001373291016,
+            "y1": 702.8995361328125,
+            "x2": 293.3611145019531,
+            "y2": 716.83203125
+          },
+          "lines": [
+            [
+              {
+                "text": "Then please send an e-mail to",
+                "font": "Delivery-Regular",
+                "size": 11.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 46.560001373291016,
+                  "y1": 703.1865844726562,
+                  "x2": 188.307373046875,
+                  "y2": 716.4345703125
+                }
+              },
+              {
+                "text": "lejhubcdb@dhl.com",
+                "font": "Delivery-BoldItalic",
+                "size": 11.039999961853027,
+                "color": -16777216,
+                "position": {
+                  "x1": 190.55999755859375,
+                  "y1": 702.921630859375,
+                  "x2": 291.063720703125,
+                  "y2": 716.83203125
+                }
+              }
+            ]
+          ]
+        },
+        {
+          "bbox": {
+            "x1": 39.60390090942383,
+            "y1": 678.0595092773438,
+            "x2": 399.4416809082031,
+            "y2": 691.9920043945312
+          },
+          "lines": [
+            [
+              {
+                "text": "DO YOU HAVE QUESTIONS REGARDING YOUR IMPORT INSTRUCTIONS?",
+                "font": "Delivery-Bold",
+                "size": 11.039999961853027,
+                "color": -2882287,
+                "position": {
+                  "x1": 44.163421630859375,
+                  "y1": 678.0595092773438,
+                  "x2": 399.4416809082031,
+                  "y2": 691.9920043945312
+                }
+              }
+            ]
+          ]
+        }
+      ],
+      "form_fields": [],
+      "annotations": []
+    }
+  ]
+}
