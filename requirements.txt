@@ -1,0 +1,5 @@
+haystack-ai
+mistral-haystack
+jupyter
+dotenv
+trafilatura

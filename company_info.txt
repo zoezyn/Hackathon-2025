@@ -1,0 +1,13 @@
+Company Name: ABC Imports GmbH
+DHL EXPRESS Account Number (optional): 123456789
+CDB Reference (optional): CDB-00123
+Street and Number: Hauptstraße 123
+ZIP Code and City: 10115 Berlin
+Telephone Number: +49 30 1234567
+Fax Number: +49 30 7654321
+Email Address: contact@abcimports.de
+Contact Person: Max Mustermann
+Economic Operators Registration and Identification (EORI) Number: DE123456789000
+Branch Number (if applicable): 001 (leave blank if not applicable)
+Name in Capital Letters: MAX MUSTERMANN
+City and Date: Berlin, 18 January 2025
