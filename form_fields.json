@@ -1,0 +1,456 @@
+{
+  "document": {
+    "path": "customssave_filled.pdf",
+    "total_fields": 25,
+    "page_count": 3
+  },
+  "pages": {
+    "1": {
+      "text_fields": [
+        {
+          "name": "Company",
+          "value": "AAA",
+          "position": {
+            "x1": 45.12,
+            "y1": 214.32,
+            "x2": 284.4,
+            "y2": 226.92,
+            "width": 239.28,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "DHL EXPRESS account number optional",
+          "value": "DDQDWQ",
+          "position": {
+            "x1": 310.44,
+            "y1": 214.32,
+            "x2": 442.92,
+            "y2": 226.92,
+            "width": 132.48,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "CDBreference optional",
+          "value": "ewqdewd",
+          "position": {
+            "x1": 454.92,
+            "y1": 214.32,
+            "x2": 555.6,
+            "y2": 226.92,
+            "width": 100.68,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "Street No",
+          "value": "dfewfw",
+          "position": {
+            "x1": 45.12,
+            "y1": 235.68,
+            "x2": 284.4,
+            "y2": 248.28,
+            "width": 239.28,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "ZIP City",
+          "value": "fewf",
+          "position": {
+            "x1": 310.44,
+            "y1": 235.68,
+            "x2": 555.6,
+            "y2": 248.28,
+            "width": 245.16,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "Telephone",
+          "value": "fwefew",
+          "position": {
+            "x1": 45.12,
+            "y1": 257.04,
+            "x2": 284.4,
+            "y2": 269.64,
+            "width": 239.28,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "Fax",
+          "value": "wefewf",
+          "position": {
+            "x1": 310.44,
+            "y1": 257.04,
+            "x2": 555.6,
+            "y2": 269.64,
+            "width": 245.16,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "EMail",
+          "value": "wefew",
+          "position": {
+            "x1": 45.12,
+            "y1": 279.72,
+            "x2": 284.4,
+            "y2": 292.32,
+            "width": 239.28,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "Contact",
+          "value": "ewfewf",
+          "position": {
+            "x1": 310.44,
+            "y1": 279.72,
+            "x2": 555.6,
+            "y2": 292.32,
+            "width": 245.16,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "Economic Operators Registration and Identification number",
+          "value": "Hello World",
+          "position": {
+            "x1": 52.08,
+            "y1": 334.92,
+            "x2": 322.32,
+            "y2": 352.68,
+            "width": 270.24,
+            "height": 17.76
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "BRANCH NUMBER",
+          "value": "",
+          "position": {
+            "x1": 336.48,
+            "y1": 334.92,
+            "x2": 399.96,
+            "y2": 352.68,
+            "width": 63.48,
+            "height": 17.76
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "VATID",
+          "value": "",
+          "position": {
+            "x1": 405.6,
+            "y1": 616.56,
+            "x2": 547.44,
+            "y2": 629.16,
+            "width": 141.84,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "Name in capital letters",
+          "value": "",
+          "position": {
+            "x1": 45.12,
+            "y1": 674.52,
+            "x2": 284.4,
+            "y2": 687.12,
+            "width": 239.28,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "City date",
+          "value": "",
+          "position": {
+            "x1": 45.12,
+            "y1": 702.36,
+            "x2": 284.4,
+            "y2": 714.96,
+            "width": 239.28,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        }
+      ],
+      "checkboxes": [
+        {
+          "name": "Check Box8",
+          "value": "",
+          "position": {
+            "x1": 177.51,
+            "y1": 608.99,
+            "x2": 205.46,
+            "y2": 628.56,
+            "width": 27.95,
+            "height": 19.57
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": false
+          }
+        },
+        {
+          "name": "Check Box9",
+          "value": "",
+          "position": {
+            "x1": 234.23,
+            "y1": 609.15,
+            "x2": 262.18,
+            "y2": 628.72,
+            "width": 27.95,
+            "height": 19.57
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": false
+          }
+        }
+      ],
+      "radio_buttons": [],
+      "other_fields": []
+    },
+    "2": {
+      "text_fields": [
+        {
+          "name": "Company_2",
+          "value": "",
+          "position": {
+            "x1": 45.12,
+            "y1": 204.36,
+            "x2": 276.6,
+            "y2": 216.96,
+            "width": 231.48,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "DHL EXPRESS account number optional_2",
+          "value": "",
+          "position": {
+            "x1": 298.2,
+            "y1": 204.36,
+            "x2": 442.92,
+            "y2": 216.96,
+            "width": 144.72,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "CDBreference optional_2",
+          "value": "",
+          "position": {
+            "x1": 457.32,
+            "y1": 204.36,
+            "x2": 555.6,
+            "y2": 216.96,
+            "width": 98.28,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "Street No_2",
+          "value": "",
+          "position": {
+            "x1": 45.12,
+            "y1": 225.72,
+            "x2": 276.6,
+            "y2": 238.32,
+            "width": 231.48,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        },
+        {
+          "name": "ZIP City_2",
+          "value": "",
+          "position": {
+            "x1": 298.2,
+            "y1": 225.72,
+            "x2": 555.6,
+            "y2": 238.32,
+            "width": 257.4,
+            "height": 12.6
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": true
+          }
+        }
+      ],
+      "checkboxes": [
+        {
+          "name": "Check Box11",
+          "value": "",
+          "position": {
+            "x1": 45.03,
+            "y1": 298.89,
+            "x2": 58.84,
+            "y2": 312.18,
+            "width": 13.81,
+            "height": 13.29
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": false
+          }
+        },
+        {
+          "name": "Check Box12",
+          "value": "",
+          "position": {
+            "x1": 44.03,
+            "y1": 429.09,
+            "x2": 56.8,
+            "y2": 442.38,
+            "width": 12.76,
+            "height": 13.29
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": false
+          }
+        },
+        {
+          "name": "Check Box13",
+          "value": "",
+          "position": {
+            "x1": 44.83,
+            "y1": 530.88,
+            "x2": 58.64,
+            "y2": 543.65,
+            "width": 13.81,
+            "height": 12.76
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": false
+          }
+        },
+        {
+          "name": "Check Box14",
+          "value": "",
+          "position": {
+            "x1": 42.99,
+            "y1": 579.73,
+            "x2": 57.32,
+            "y2": 593.54,
+            "width": 14.33,
+            "height": 13.81
+          },
+          "properties": {
+            "is_required": false,
+            "is_readonly": false,
+            "is_multiline": false
+          }
+        }
+      ],
+      "radio_buttons": [],
+      "other_fields": []
+    },
+    "3": {
+      "text_fields": [],
+      "checkboxes": [],
+      "radio_buttons": [],
+      "other_fields": []
+    }
+  }
+}
