@@ -1,5 +1,7 @@
 haystack-ai
 mistral-haystack
 jupyter
-dotenv
+python-dotenv
 trafilatura
+weaviate-haystack
+redis
