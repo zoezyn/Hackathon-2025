@@ -5,6 +5,8 @@ We build autonomous system for logistics. Logistics and shipping companies manag
 
 Our solution is to build an autonomous system that can fill these forms automatically.
 
+![alt text](image.png)
+
 To run the code, install the following packages:
 ```
 pip install -r requirements.txt
