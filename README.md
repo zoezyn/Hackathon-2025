@@ -5,7 +5,7 @@ We build autonomous system for logistics. Logistics and shipping companies manag
 
 Our solution is to build an autonomous system that can fill these forms automatically.
 
-![alt text](image.png)
+![alt text](https://github.com/zoezyn/Hackathon-2025/blob/main/img.png?raw=true)
 
 To run the code, install the following packages:
 ```
