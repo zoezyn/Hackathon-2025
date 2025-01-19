@@ -25,6 +25,7 @@ def questions_from_pdf(file_path: str) -> dict:
         res["questions"].append({
             "id": my_id,
             "name": field.get("name"),
+            "question": field.get("question")
         })
     return res
 
@@ -46,7 +47,8 @@ def _fields_per_page(file_path: str) -> dict:
             "type": field.get("type"),
             "position": field.get("position"),
             "flags": field.get("flags"),
-            "is_required": field.get("is_required")
+            "is_required": field.get("is_required"),
+            "page": field.get("page")
         })
     return res
 
@@ -138,7 +140,7 @@ def enhance_form_data(input_file_path: str):
                     {
                         "type": "text",
                         "text": f"""
-    you are an expert in understanding forms. I have the form attatched, and I do know there are fields named {prompt_fields}. 
+    you are an expert in understanding forms. I have the form attached, and I do know there are fields named {prompt_fields}. 
     
     please formulate a question for each field. only output a valid json, with the key field name, value question for the field
 

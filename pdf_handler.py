@@ -38,9 +38,15 @@ def extract_pdf_fields(pdf_path: str) -> List[Dict]:
     # Extract fields from each page
     for page_num in range(doc.page_count):
         page = doc[page_num]
+
+
         
         # Get form fields (widgets) from the page
         for field in page.widgets():
+            if field.field_type == 2:
+                # FIXME: filter checkboxes for now
+                continue
+
             field_data = {
                 "name": field.field_name,
                 "type": {
