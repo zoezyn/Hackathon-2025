@@ -25,6 +25,7 @@ def questions_from_pdf(file_path: str) -> dict:
         res["questions"].append({
             "id": my_id,
             "name": field.get("name"),
+            "question": field.get("question")
         })
     return res
 
