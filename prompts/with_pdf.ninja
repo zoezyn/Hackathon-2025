@@ -1,0 +1,9 @@
+What follows is a list of questions. Evaluate each question and say if you know the answer or not. If not, ask colleagues for the information you need.
+ For each question, ask only one colleague.
+
+User provided context: {{context}}
+
+{{questions_json}}
+
+Upon receiving the answer, reply with JSON of questions in format
+{"id": "QUESTION_ID", "answer": "REPLY"}. Start with STARTJSON, then follow with correct JSON of answers as array and end with ENDJSON

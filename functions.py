@@ -70,16 +70,20 @@ def fill_responses_to_pdf(pdf_path: str, responses: dict) -> str:
     """
 
 
-    fields = extract_pdf_fields(pdf_path=pdf_path)
+    # fields = extract_pdf_fields(pdf_path=pdf_path)
+    fields = enhance_form_data(pdf_path).get("fields", [])
+    print(fields)
     for response in responses.get("questions", []):
         field_id = response.get("id")
         for field in fields:
             parsed_field_id = _field_to_id(field)
-            if field_id == parsed_field_id:
-                field["answer"] = response.get("response")
+            print([str(field_id), str(parsed_field_id)])
+            if str(field_id) == str(parsed_field_id):
+                print(f"found field: {field_id}")
+                field["answer"] = response.get("answer")
     doc = fill_pdf(pdf_path, {"fields": fields})
     out_path = f"/tmp/filled_{uuid4()}.pdf"
-    logging.info(f"filled PDF saved at: {out_path}")
+    print(f"filled PDF saved at: {out_path}")
     doc.save(out_path)
     doc.close()
     return out_path
@@ -87,7 +91,7 @@ def fill_responses_to_pdf(pdf_path: str, responses: dict) -> str:
 def _field_to_id(field: dict) -> str:
     data = {
         "name": field.get("name"),
-        "page": field.get("page"),
+        # "page": field.get("page"),
     }
     return str(uuid3(ns, json.dumps(data)))
 

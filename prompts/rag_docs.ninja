@@ -1,0 +1,6 @@
+{% for doc in documents %}
+Document ID: {{doc.id}}
+Document Content:
+{{doc.content}}
+END OF DOCUMENT
+{% endfor %}

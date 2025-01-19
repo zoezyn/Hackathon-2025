@@ -67,8 +67,10 @@ def extract_pdf_fields(pdf_path: str) -> List[Dict]:
 
 
 def _find_answer(label: str, page:int, data: dict) -> str|None:
+    print(data, label, page)
     for field in data.get("fields", []):
-        if field.get("name") == label and field.get("page") == page + 1:
+        print('--------->', field)
+        if field.get("name") == label:
             return field.get("answer")
     return None
 
@@ -80,8 +82,10 @@ def fill_pdf(pdf_path: str, data: dict) -> fitz.Document:
 
         for field in page.widgets():
             answer = _find_answer(field.field_name, page_num, data)
+            print("ANSWER FOR: ", field.field_name, "is: ", answer)
             if answer is not None:
                 field.field_value = answer
+                print("Field filled: ", field.field_name, "with value: ", answer)
                 field.update()
 
     return doc
